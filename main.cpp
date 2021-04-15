@@ -90,7 +90,7 @@ int main() {
     //mushroom platform idle
     stateAtlas[4] = State(4, 1, texAtlas + 10, INFINITY);
     //mushroom stalk
-    stateAtlas[5] = State(5, 1, texAtlas + 11, INFINITY);;
+    stateAtlas[5] = State(5, 1, texAtlas + 11, INFINITY);
 
     //coin idle
     stateAtlas[6] = State(6, 4, texAtlas + 12, 6);
